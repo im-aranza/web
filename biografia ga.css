@@ -1,0 +1,77 @@
+
+*{
+	padding:0;
+	margin:0;
+}
+body{
+	font-family: "calibri light";
+}
+body{
+	font-family: arial, sans-serif, helvicas;
+	background: #bebebe;
+}
+.menu{
+	list-style: none;
+	padding: 0;
+	background: #1FBBDA;
+	width: 90%;
+	max-width: 1000px;
+	margin: 20px auto;
+}
+.menu{
+	list-style: none;
+	padding: 0;
+	background: #1FBBDA;
+	width: 100%;
+	max-width: 1000px;
+	margin: 20px auto;
+}
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+.menu li a{
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+	padding: 20px;
+}
+.menu li a:hover{
+	background: #95F0CD;
+}
+.contenedor{
+	background: #85C1E9;
+	width: 80%;
+	
+	margin: auto;
+}
+header{
+	height: 400px;
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Xqmlc0HpLFt84h1x6S5cukTdHFWcN6UKfA&s");
+	background-position: center;
+	background-size: cover;
+}
+main{
+	background: #8CD2FC;
+	padding: 20px 30px;
+	border: 2px solid #8CD2FC;
+}
+main .foto{
+	width: 150px;
+	height: 150px;
+	background-color: #D794F8;
+	border-radius: 50%;
+	margin: -90px 0 20px 0;
+	border: 6px solid #C07EFA;
+}
+main .foto img{
+	width: 100%;
+	border-radius: 50%;
+}
+footer{
+	background: #068ADB;
+	height: 80px;
+}
+h2{
+
+}

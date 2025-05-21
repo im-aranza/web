@@ -1,0 +1,46 @@
+
+.menu{
+	list-style: none;
+	padding: 0;
+	background: #1FBBDA;
+	width:90%;
+	max-width: 1000px;
+	margin: 20px auto;
+}
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+.menu li a{
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+	padding: 20px;
+}
+.menu li a:hover{
+	background: #95F0CD;
+}
+body{
+	font-family: comic sans;
+	background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYsoZgnPDChHxjKigtqXge74dwgOQ7CiZ7Nw&s");
+	background-repeat: repeat;
+}
+h1, p{
+	color: #070008;
+	text-align: center;
+}
+div{
+	width: 60%;
+	height: 500px;
+	background:  #e5a0f1;
+	margin: auto;
+}
+.nono{
+	width: 90%;
+	height: 10%;
+}
+footer{
+	background: #068ad8;
+	height: 80px;
+	margin-top: 120px;
+}
