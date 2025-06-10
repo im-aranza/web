@@ -1,0 +1,50 @@
+body{
+	font-family: arial;
+	background: #c0a2c6;
+}
+.menu{
+	list-style: none;
+	padding: 0;
+	background: #8c5097;
+	width: 90%;
+	max-width: 1000px;
+	margin: 20px auto;
+}
+.menu il{
+	display: inline-block;
+	text-aling: center;
+}
+.menu il a{
+	color: #f4d1fa;
+	text-decoration: none;
+	display: block;
+	padding: 20px;
+}
+.menu il a:hover{
+	backgroud:: #5B9BE8;
+}
+h1{
+	font-family: roboto;
+	font-size: 30;
+	color:#611b6e ;
+	text-align: center;
+}
+table, td, th{
+	border: 1px solid rgba(0, 0, 0, .2);
+}
+table{
+	border-collapse: collapse;
+	width: 500px;
+	text-align: center;
+	margin: 20px auto;
+}
+td, th{
+	padding: 10px 20px;
+}
+th{
+	background: #9e80a3;
+	color:#74507b ;
+}
+tr:hover{
+	background:#864492 ;
+}
